@@ -1,0 +1,17 @@
+{
+  "name": "clone",
+  "version": "0.0.1",
+  "authors": [
+    "David Sturley <david.sturley@deque.com>"
+  ],
+  "description": "Clone an object",
+  "private": true,
+  "main": "lib/index.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "build"
+  ],
+  "dependencies": {}
+}
