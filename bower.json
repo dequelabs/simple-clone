@@ -4,6 +4,10 @@
   "authors": [
     "David Sturley <david.sturley@deque.com>"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dequelabs/simple-clone.git"
+  },
   "description": "Clone an object",
   "license": "MPL-2.0",
   "main": "lib/index.js",
